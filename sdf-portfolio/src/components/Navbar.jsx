@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
-import {FaBars, FaTimes} from 'react-icons/fa'
+import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'
+import { HiOutlineMail } from 'react-icons/hi'
+import { BsFillPersonLinesFill } from 'react-icons/bs'
 import Logo from '../assets/newsflogo.png'
 
 
@@ -25,7 +27,7 @@ const Navbar = () => {
         </div>
         {/* Dropdown */}
         <div onClick ={handleClick} className='md:hidden z-10'>
-            <FaBars />
+            {!nav ? <FaBars /> : <FaTimes />}
         </div>
         {/* Phone/Tablet Menu */}
             <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
@@ -36,8 +38,14 @@ const Navbar = () => {
                 <li className='py-6 text-4xl'>Contact</li>
             </ul>
         {/* Icons */}
-        <div className='hidden'>
-
+        <div className='flex fixed flex-col top-[35%] left-0'>
+            <ul>
+                <li>
+                    <a href ="/">
+                        LinkedIn <FaLinkedin />
+                    </a>
+                </li>
+            </ul>
         </div>
     </div>
   )
