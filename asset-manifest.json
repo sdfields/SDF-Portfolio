@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sdf-portfolio/static/css/main.f5b4720a.css",
-    "main.js": "/sdf-portfolio/static/js/main.3a3ea474.js",
-    "static/media/cartoon-notepad.jpg": "/sdf-portfolio/static/media/cartoon-notepad.0882bcf89f8d95073f9a.jpg",
-    "static/media/react.png": "/sdf-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/sdf-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/sdf-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/github.png": "/sdf-portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/sdf-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/sdf-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/sdf-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/newsflogo.png": "/sdf-portfolio/static/media/newsflogo.63121829660857bb358f.png",
-    "static/media/javascript.png": "/sdf-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/sdf-portfolio/index.html",
-    "main.f5b4720a.css.map": "/sdf-portfolio/static/css/main.f5b4720a.css.map",
-    "main.3a3ea474.js.map": "/sdf-portfolio/static/js/main.3a3ea474.js.map"
+    "main.css": "/SDF-Portfolio/static/css/main.f5b4720a.css",
+    "main.js": "/SDF-Portfolio/static/js/main.5dd8c691.js",
+    "static/media/cartoon-notepad.jpg": "/SDF-Portfolio/static/media/cartoon-notepad.0882bcf89f8d95073f9a.jpg",
+    "static/media/react.png": "/SDF-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/SDF-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/SDF-Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/SDF-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/SDF-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/SDF-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/SDF-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/newsflogo.png": "/SDF-Portfolio/static/media/newsflogo.63121829660857bb358f.png",
+    "static/media/javascript.png": "/SDF-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/SDF-Portfolio/index.html",
+    "main.f5b4720a.css.map": "/SDF-Portfolio/static/css/main.f5b4720a.css.map",
+    "main.5dd8c691.js.map": "/SDF-Portfolio/static/js/main.5dd8c691.js.map"
   },
   "entrypoints": [
     "static/css/main.f5b4720a.css",
-    "static/js/main.3a3ea474.js"
+    "static/js/main.5dd8c691.js"
   ]
 }
