@@ -25,35 +25,35 @@ const Skills = () => {
             {/*Container for Icons*/}
             <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
                 <div className='shadow-md shadow-gray-700 hover:scale-110 duration-600'>
-                    <img className='w-20 mx-auto' src={CSS} alt = "CSS Image"/>
+                    <img className='w-20 mx-auto' src={CSS} alt = "CSS Logo"/>
                     <p>CSS</p>
                 </div>
                 <div className='shadow-md shadow-gray-700 hover:scale-110 duration-600'>
-                    <img className='w-20 mx-auto' src={GitHub} alt = "GitHub Image"/>
+                    <img className='w-20 mx-auto' src={GitHub} alt = "GitHub Logo"/>
                     <p>GitHub</p>
                 </div>
                 <div className='shadow-md shadow-gray-700 hover:scale-110 duration-600'>
-                    <img className='w-20 mx-auto' src={HTML} alt = "HTML Image"/>
+                    <img className='w-20 mx-auto' src={HTML} alt = "HTML Logo"/>
                     <p>HTML</p>
                 </div>
                 <div className='shadow-md shadow-gray-700 hover:scale-110 duration-600'>
-                    <img className='w-20 mx-auto' src={JavaScript} alt = "JavaScript Image"/>
+                    <img className='w-20 mx-auto' src={JavaScript} alt = "JavaScript Logo"/>
                     <p>JavaScript</p>
                 </div>
                 <div className='shadow-md shadow-gray-700 hover:scale-110 duration-600'>
-                    <img className='w-20 mx-auto' src={Mongo} alt = "Mongo Image"/>
+                    <img className='w-20 mx-auto' src={Mongo} alt = "Mongo Logo"/>
                     <p>Mongo</p>
                 </div>
                 <div className='shadow-md shadow-gray-600 hover:scale-110 duration-600'>
-                    <img className='w-20 mx-auto' src={Node} alt = "Node Image"/>
+                    <img className='w-20 mx-auto' src={Node} alt = "Node Logo"/>
                     <p>Node</p>
                 </div>
                 <div className='shadow-md shadow-gray-600 hover:scale-110 duration-600'>
-                    <img className='w-20 mx-auto' src={ReactImage} alt = "React Image"/>
+                    <img className='w-20 mx-auto' src={ReactImage} alt = "React Logo"/>
                     <p>React</p>
                 </div>
                 <div className='shadow-md shadow-gray-600 hover:scale-110 duration-600'>
-                    <img className='w-20 mx-auto' src={Tailwind} alt = "Tailwind Image"/>
+                    <img className='w-20 mx-auto' src={Tailwind} alt = "Tailwind Logo"/>
                     <p>Tailwind</p>
                 </div>
             </div>
