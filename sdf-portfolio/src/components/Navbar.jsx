@@ -1,6 +1,6 @@
 import React from 'react'
 import {FaBars, FaTimes} from 'react-icons/fa'
-import Logo from '../assets/sflogo.png'
+import Logo from '../assets/newsflogo.png'
 
 
 const Navbar = () => {
@@ -20,6 +20,12 @@ const Navbar = () => {
                 <li>Contact</li>
             </ul>
         </div>
+        {/* Main Menu */}
+        <div></div>
+        {/* Main Menu */}
+        <div></div>
+        {/* Main Menu */}
+        <div></div>
     </div>
   )
 }
