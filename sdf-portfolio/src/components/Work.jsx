@@ -26,17 +26,12 @@ const Work = () => {
             {/*Hover 1*/}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                PWA Text Editor
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://jate-sdf.herokuapp.com/" target ="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    View
                   </button>
                 </a>
               </div>
@@ -50,17 +45,12 @@ const Work = () => {
             {/*Hover 2*/}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Regex Tutorial for Email
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://gist.github.com/sdfields/2d26067b9ad4766365c7421a9806bbc7" target ="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    View
                   </button>
                 </a>
               </div>
@@ -74,89 +64,12 @@ const Work = () => {
             {/*Hover 3*/}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                CLI Employee Tracker
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/sdfields/Employee-Tracker" target ="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/*Grid Item 4*/}
-          <div
-            style={{ backgroundImage: `url(${Notepad})` }}
-            className="shadow-lg shadow-gray-700 group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            {/*Hover 4*/}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/*Grid Item 5*/}
-          <div
-            style={{ backgroundImage: `url(${Notepad})` }}
-            className="shadow-lg shadow-gray-700 group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            {/*Hover 5*/}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/*Grid Item 6*/}
-          <div
-            style={{ backgroundImage: `url(${Notepad})` }}
-            className="shadow-lg shadow-gray-700 group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            {/*Hover 6*/}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
-              </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    View
                   </button>
                 </a>
               </div>
