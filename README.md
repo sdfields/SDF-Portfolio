@@ -22,7 +22,7 @@ https://github.com/sdfields/SDF-Portfolio
 
 # Deployed Application
 
-Link
+https://sdfields.github.io/SDF-Portfolio/
 
 Here is a list of changes I would like to make to my portfolio for future reference:
 * Add resume to "Resume" button
