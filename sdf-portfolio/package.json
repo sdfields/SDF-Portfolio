@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sdfields.github.io/sdf-portfolio",
   "name": "sdf-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -40,7 +41,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sdfields.github.io/sdf-portfolio",
   "devDependencies": {
     "tailwindcss": "^3.3.1"
   }
